@@ -9,13 +9,13 @@
 	align-items:center;
 }
 
-.one{
+.green{
 	border-radius:50px;
 	width:100px;
 	height:100px;
 	background:green;
 }
-.two{
+.yellow{
 	border-radius:50px;
 	width:100px;
 	height:100px;
